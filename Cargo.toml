@@ -1,0 +1,4 @@
+[package]
+name = "feode"
+version = "0.0.1"
+authors = ["Tyler Slabinski <tslabinski@slabity.net>"]
